@@ -13,5 +13,6 @@ git init
 
 ```
 git add index.md
-git commit -m "text"
 ```
+
+git commit -m "text"
