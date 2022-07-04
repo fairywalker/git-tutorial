@@ -85,3 +85,9 @@ git rebase <branch to rebase>
 ```
 git checkout -b BranchName
 ```
+
+## Клонирование репозитория
+Для клонирования репозитория нужно ввести команду
+```
+git clone <url to clone>
+```
